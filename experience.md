@@ -1,5 +1,5 @@
 # catelittle.github.io
 
-OSU Horticulture
+![business card](business_card.png)
 
-[Google Scholar](https://scholar.google.com/citations?user=tKr4H-MAAAAJ&hl=en) 
+[My Google Scholar](https://scholar.google.com/citations?user=tKr4H-MAAAAJ&hl=en&oi=sra) 
